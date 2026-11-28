@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://getfreealts.github.io/sitemap.xml
+Sitemap: https://getfreealts.github.io/sitemap.txt
